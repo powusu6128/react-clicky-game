@@ -27,7 +27,7 @@ class App extends Component {
       this.setState({
         clickedArray: this.state.clickedArray.concat([id]),
         score: this.state.score + 1,
-        message: "Correct!! 🙂",
+        message: "Correct!! 🙂 ",
         shakeit: "false"
       });
     }
@@ -51,15 +51,18 @@ class App extends Component {
           <header className="App-header">
             <img src={image} className="App-logo" alt="logo" />
             <h1 className="App-title">Welcome to React Clicky Game!!</h1>
+
+            <h3 className="App-intro">
+              <strong>Click on an image to earn points, but don't click on any more than once!</strong> 
+              <p className = "score"><strong>Score: {this.state.score} | TopScore: {this.state.topScore}</strong></p>
+              <p className="message"><strong>{this.state.message}</strong></p>
+            </h3>
+
           </header>
-          <h3 className="App-intro">
-            <strong>Click on an image to earn points, but don't click on any more than once!</strong> 
-            <p className = "score"><strong>Score: {this.state.score} | TopScore: {this.state.topScore}</strong></p>
-            <p className="message"><strong>{this.state.message}</strong></p>
-          </h3>
+         
             <Wrapper
                 shakeWrapper = {this.state.shakeit}
-                pictures={this.state.data.map(picture => (
+                pictures ={this.state.data.map(picture => (
                   <CardHolder
                     clickPicture={this.clickPicture}
                     id={picture.id}
