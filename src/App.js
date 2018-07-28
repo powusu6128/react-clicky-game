@@ -1,5 +1,5 @@
 import React, { Component} from 'react';
-import image from './container/Images';
+import image from './container/phil_logo.png';
 import './App.css';
 import CardHolder from "./components/CardHolder";
 import Wrapper from "./components/Wrapper";
