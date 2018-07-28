@@ -1,0 +1,108 @@
+[
+    {
+      "id": 1,
+      "name": "Nigeria",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Nigeria_vs_Argentina.jpg",
+      "occupation": "Nigeria-football",
+      "location": "Africa"
+    },
+    {
+      "id": 2,
+      "name": "Argentina",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/DSC_7356the_world_football_championship_in_Russia_2018.jpg",
+      "occupation": "Argentine-footbal",
+      "location": "South America"
+    },
+    {
+      "id": 3,
+      "name": "Brazil",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/2018_IBSA_Blind_Football_Madrid_China_v_Brazil-61.JPG",
+      "occupation": "Brazil-football",
+      "location": "South America"
+    },
+    {
+      "id": 4,
+      "name": "Germany",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Team_Germany_850_0740.jpg",
+      "occupation": "Germany-football",
+      "location": "Europe"
+    },
+    {
+      "id": 5,
+      "name": "Cameroon",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Cameroon-Chilie_%284%29.jpg",
+      "occupation": "Cameroon",
+      "location": "West Africa"
+    },
+    {
+      "id": 6,
+      "name": "Italy",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Nat_team_of_italy_2012.jpg",
+      "occupation": "Student",
+      "location": "Bluffington"
+    },
+    {
+      "id": 7,
+      "name": "France",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Nat_team_of_italy_2012.jpg",
+      "occupation": "Looney Toon",
+      "location": "A Rabbit Burrow"
+    },
+    {
+      "id": 8,
+      "name": "England",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/England_national_team_World_Cup_2018.jpg",
+      "occupation": "Ladies Man",
+      "location": "Europe"
+    },
+    {
+      "id": 9,
+      "name": "Portugal",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Portugal_football_team_-_Croatia_vs._Portugal%2C_10th_June_2013.jpg",
+      "occupation": "Portugal-football",
+      "location": "Europe"
+    },
+    {
+      "id": 10,
+      "name": "Sweden",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Swedish_national_football_team_2006.jpg",
+      "occupation": "Cashier",
+      "location": "O-Town, California"
+    },
+    {
+      "id": 11,
+      "name": "Belguim",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Belgium_national_football_team_2011-03-25_%2801%29.jpg",
+      "occupation": "Belguim",
+      "location": "Europe"
+    },
+    {
+      "id": 12,
+      "name": "Panaman",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/ENG-PAN_%2813%29.jpg",
+      "occupation": "Pa-football!",
+      "location": "North America"
+    },
+    {
+        "id": 13,
+        "name": "Spain",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Russia-Spain_2017_%289%29.jpg",
+        "occupation": "spain-football",
+        "location": "Europe"
+      },
+      {
+        "id": 14,
+        "name": "Japan",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Japan_national_football_team_World_Cup_2018.jpg",
+        "occupation": "Ahhhh! A Real Monster!",
+        "location": "Under a City Dump"
+      },
+      {
+        "id": 15,
+        "name": "Iceland",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/2018_World_Cup_Iceland1.jpg",
+        "occupation": "Iceland",
+        "location": "Europe"
+      } 
+
+  ]
